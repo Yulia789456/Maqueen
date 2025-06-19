@@ -23,14 +23,19 @@ Main while True loop waits for radio messages from transmitter board, then passe
 
 ## Transmit/receiver microbit board
 This board does not used any functions. Only a while loop listening to a serial input from the PC.
+
 It also allows control Maqueen robot using A and B buttons on the microbit directly as a backup. 
 
 ## The requirements (pip freeze)
 See requirements.txt 
+
 These dependencies are open source and licensed under permissive licenses such as MIT, BSD, and Apache 2.0. They allow to use them in personal and commercial projects, but you should retain their license notices if you distribute your project.
+
 For receiver microbit you will need maqueen.py module.
 
 # Licence
 According to the GitHub of DFRobot, it is licensed under an MIT Open-Source license.
+
 For this project I also have adopted MIT Open-Source license
+
 For more information see LICENCE file
