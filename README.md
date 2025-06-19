@@ -34,7 +34,7 @@ These dependencies are open source and licensed under permissive licenses such a
 For receiver microbit you will need maqueen.py module.
 
 # Licence
-According to the GitHub of DFRobot, it is licensed under an MIT Open-Source license.
+The licensing information on DFRobot’s GitHub shows that it uses the MIT open-source license.
 
 For this project I also have adopted MIT Open-Source license
 
