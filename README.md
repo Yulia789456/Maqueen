@@ -1,4 +1,4 @@
-# Maqueen
+# Maqueen robot
 ## Implementation phase
 
 For this project you will needed:
