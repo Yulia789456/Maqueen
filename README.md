@@ -1,5 +1,5 @@
 # Maqueen robot
-## Implementation phase
+## Project description
 
 For this project you will needed:
 * 1x DFRobot Maqueen
