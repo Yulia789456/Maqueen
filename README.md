@@ -10,7 +10,7 @@ This project allows the Maqueen robot (which uses a microbit) to be controlled w
 
 You can also control the robot with a transmit microbit's button, button A for moving forward, button B for moving backwards and A + B for turning. 
 
-# Functions used
+## Functions used
 ## Keyboard Communication
 ### def send_comman(cmd) 
 This function was defined to send commands directly using ser.write() inside the while loop. The send_command function could be used to simplify the code, but the script works without it. So it could be safely removed. 
@@ -33,7 +33,7 @@ These dependencies are open source and licensed under permissive licenses such a
 
 For the receiver microbit, you will need the maqueen.py module.
 
-# Licence
+## Licence
 The licensing information on DFRobot’s GitHub shows that it uses the MIT open-source license.
 
 For this project, I also have adopted the MIT Open-Source license.
